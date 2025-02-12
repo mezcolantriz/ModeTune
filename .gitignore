@@ -1,0 +1,8 @@
+__pycache__
+.env
+.learn
+/data
+/src/get-song-data copy 2.ipynb
+.plk
+.csv
+.npy
